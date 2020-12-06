@@ -1,4 +1,5 @@
 # SDHub
 Service Desk Hub for Hexagon
 Developed by Jerry Lashley 12/5/2020
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WBpLCco" data-context="false" ><a href="//imgur.com/a/WBpLCco"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://i.imgur.com/SoxPsdR.gif" target="_blank">
+    <img alt="YAP" src="https://i.imgur.com/SoxPsdR.gif" data-canonical-src="https://i.imgur.com/SoxPsdR.gif" style="max-width:100%;"></a>
