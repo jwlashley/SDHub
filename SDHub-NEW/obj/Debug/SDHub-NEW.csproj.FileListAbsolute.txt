@@ -1,0 +1,17 @@
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\bin\Debug\SDHub-NEW.exe.config
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\bin\Debug\SDHub-NEW.exe
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\bin\Debug\SDHub-NEW.pdb
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.csprojAssemblyReference.cache
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\MainWindow.g.cs
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\App.g.cs
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW_MarkupCompile.cache
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW_MarkupCompile.lref
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\MainWindow.baml
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.g.resources
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub_NEW.Properties.Resources.resources
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.exe
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\SDHub-NEW.pdb
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\Window2.g.cs
+C:\Users\Jerry\source\repos\SDHub-NEW\SDHub-NEW\obj\Debug\Window2.baml

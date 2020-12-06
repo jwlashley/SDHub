@@ -1,0 +1,30 @@
+﻿<Window x:Class="SDHub_NEW.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SDHub_NEW"
+        mc:Ignorable="d"
+        Title="AD Tools" Loaded="Window_Loaded" Height="332.558" Width="777.907" Background="#FF252525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="159*"/>
+            <ColumnDefinition Width="611*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" TextWrapping="Wrap" Text="Employee ID" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Get Info" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Width="120" Height="54"/>
+        <Button Content="Unlock AD" HorizontalAlignment="Left" Margin="10,161,0,0" VerticalAlignment="Top" Width="120" Height="54"/>
+        <Button Content="Reset AD" HorizontalAlignment="Left" Margin="10,238,0,0" VerticalAlignment="Top" Width="120" Height="54"/>
+        <GridSplitter Grid.Column="1" HorizontalAlignment="Left" Height="302" VerticalAlignment="Top" Width="5" Background="White"/>
+        <GroupBox Grid.Column="1" Header="Active Directory Information" HorizontalAlignment="Left" Height="268" Margin="21,10,0,0" VerticalAlignment="Top" Width="580" Foreground="White">
+            <Grid HorizontalAlignment="Left" Height="231" Margin="10,10,0,0" VerticalAlignment="Top" Width="544"/>
+        </GroupBox>
+        <ComboBox HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem IsSelected="True">PHSI</ComboBoxItem>
+            <ComboBoxItem>HCR</ComboBoxItem>
+            <ComboBoxItem>EXTERNAL</ComboBoxItem>
+        </ComboBox>
+                  
+
+    </Grid>
+</Window>
